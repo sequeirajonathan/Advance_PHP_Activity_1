@@ -1,1 +1,0 @@
-Create a PHP page that receives a comma separated list of elements via the URL (I.E.: localhost/page.php?e=hello,world,how,are,you) and using the PHP function explode() convert them to an array, then go through the array using a foreach loop and echo the contents on a HTML list.
